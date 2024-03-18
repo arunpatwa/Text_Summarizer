@@ -1,7 +1,7 @@
 # Text-Summarizer
 
-### Live NoteBook Link to use the Summarizer -> https://colab.research.google.com/drive/1AGtzmenCRQGsUle8vllu1B2j54UmSP_9?usp=sharing
-![image](https://github.com/Ankit3002/Text-Summarizer/assets/87632539/24a89bab-874d-4ebe-aaec-4faa8f730f73)
+### Live NoteBook Link to use the Summarizer -> [https://colab.research.google.com/drive/1AGtzmenCRQGsUle8vllu1B2j54UmSP_9?usp=sharing](https://colab.research.google.com/drive/1a-FfybKPq6zhr1c81Q_VA9kB4VnKkP5d?usp=sharing)
+![image](https://github.com/arunpatwa/Text_Summarizer/assets/87632539/24a89bab-874d-4ebe-aaec-4faa8f730f73)
 
 This project aims to develop an intelligent system for automatically summarizing meta review data associated with academic papers. Leveraging the power of a pre-trained Generative AI Language Model (GenAI LLM), the system streamlines the process of distilling essential insights from meta reviews, providing users with concise summaries.
 
