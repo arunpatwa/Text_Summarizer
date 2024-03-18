@@ -1,6 +1,6 @@
 # In the notebook over here ...
-# git clone https://github.com/Ankit3002/Text-Summarizer.git
-# Text-Summarizer/script.sh
+# git clone https://github.com/arunpatwa/Text_Summarizer.git
+# Text-Summarizer/Fine_Tune_LLM/script.sh
 echo -------- Loading Please wait ----------
 echo ---------------------------------------
 echo ---------------------------------------
@@ -18,8 +18,8 @@ pip install tqdm
 
 # gdown --id 1pjs47ye8j3YtMnw0bZi_nX_0d1HHqzzo
 # unzip /content/LLumo.zip
-# python3 /content/Text-Summarizer/start.py
-# python3 /content/Text-Summarizer/Run.py
+# python3 /content/Text-Summarizer/Fine_Tune_LLM/start.py
+# python3 /content/Text-Summarizer/Fine_Tune_LLM/Run.py
 # # code for running the code ...
 
 # # code for downloading the zip model over here
