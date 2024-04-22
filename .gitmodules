@@ -1,0 +1,3 @@
+[submodule "text-summarization-aws"]
+	path = text-summarization-aws
+	url = https://github.com/arunpatwa/text-summarization-aws.git
